@@ -1,4 +1,4 @@
-# Easy-Custom-select2-search
+# Easy-Custom-select2-search 
 
 A simple and customizable JavaScript utility for integrating the Select2 library with asynchronous search functionality. This script enhances Select2 dropdowns with custom search capabilities, making it easier to handle large datasets and paginate results from an API.
 
